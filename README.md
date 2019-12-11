@@ -1,1 +1,1 @@
-# paulBertWashing is tool allowing to manage easily the rue Paul Bert washing machine.
+# paulBertWashing is tool that helps you how to use The Washing machine located at rue Paul Bert
